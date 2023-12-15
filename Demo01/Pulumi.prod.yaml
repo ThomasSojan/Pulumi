@@ -1,0 +1,4 @@
+config:
+  Demo01:ec2-instance: my-vm-prod
+  Demo01:s3-bucket: my-bucket-prod
+  aws:region: ap-south-1
